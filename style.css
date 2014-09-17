@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Orbitron);
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+	background: #111619;
+	color: #eee;
+
+	font-family: 'Orbitron', sans-serif;
+}
+
+#container {
+	padding: 50px;
+}
+
+#line {
+	margin: 50px;
+	width: 502px;
+	height: 1px;
+	background: #eee;
+	position: relative;
+}
+
+#jeremy {
+	width: 2px;
+	height: 1px;
+	background: red;
+	position: absolute;
+}
+
+#restart {
+	font-family: 'Orbitron', sans-serif;
+	padding: 2px 5px;
+}
+
+p {
+	margin: 20px 0;
+}
