@@ -1,4 +1,4 @@
-Jeremy-s-Game
+Jérémy's Game
 =============
 
 Birthday Game! Yey!
