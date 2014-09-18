@@ -55,7 +55,7 @@ $(function () {
 
 	function calcScore() {
 		var dt = new Date()-startTime;
-		var score = -dt;
+		var score = 1/dt;
 
 		$("#score").text(score);
 	}
